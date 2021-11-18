@@ -10,5 +10,6 @@ Images of dogs and cats
 2 keras  
 3 Ipython  
 4 PIL  
+5 numpy
   
 CNN is trained on 'adam' optimizer with 'binary_crossentropy' as loss function over 20 epochs.  
